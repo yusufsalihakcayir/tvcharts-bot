@@ -30,3 +30,11 @@ jobs:
         CHAT_ID: ${{ secrets.CHAT_ID }}
       run: |
         python main_runner.py
+
+    - name: Verileri Kaydet ve Depoya Gönder
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/*.json
+        git commit -m "Auto: Günlük veri kaydedildi [$(date +'%Y-%m-%d')]" || exit 0
+        git push
