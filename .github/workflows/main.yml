@@ -9,18 +9,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    # GitHub Actions'a bu iş (job) için yazma yetkisi veriyoruz
     permissions:
       contents: write
 
     steps:
     - name: Kodları Çek
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4 # v3'ten v4'e güncellendi
       with:
-        persist-credentials: true # Git push yapabilmek için yetkiyi sakla
+        persist-credentials: true
 
     - name: Python Kurulumu
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5 # v4'ten v5'e güncellendi
       with:
         python-version: '3.12'
 
@@ -41,7 +40,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        # Eğer data klasörü yoksa hata vermemesi için oluşturuyoruz
         mkdir -p data
         git add data/*.json
         git commit -m "Auto: Günlük veri kaydedildi [$(date +'%Y-%m-%d')]" || exit 0
