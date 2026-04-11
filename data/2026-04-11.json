@@ -1,0 +1,185 @@
+{
+  "date": "2026-04-11",
+  "shows": [
+    {
+      "rank": 1,
+      "id": "tt31938062",
+      "title": "The Pitt",
+      "year": "2025",
+      "imdb": 8.9,
+      "votes": 133278,
+      "rank_change": "+1"
+    },
+    {
+      "rank": 2,
+      "id": "tt32937780",
+      "title": "Something Very Bad Is Going to Happen",
+      "year": "2026",
+      "imdb": 6.8,
+      "votes": 16276,
+      "rank_change": "-1"
+    },
+    {
+      "rank": 3,
+      "id": "tt6741278",
+      "title": "Invincible",
+      "year": "2021",
+      "imdb": 8.7,
+      "votes": 319732,
+      "rank_change": "+2"
+    },
+    {
+      "rank": 4,
+      "id": "tt31810018",
+      "title": "Detective Hole",
+      "year": "2026",
+      "imdb": 7.8,
+      "votes": 12530,
+      "rank_change": "0"
+    },
+    {
+      "rank": 5,
+      "id": "tt33204276",
+      "title": "The Madison",
+      "year": "2026",
+      "imdb": 7.9,
+      "votes": 11923,
+      "rank_change": "-2"
+    },
+    {
+      "rank": 6,
+      "id": "tt27444205",
+      "title": "Paradise",
+      "year": "2025",
+      "imdb": 7.9,
+      "votes": 74152,
+      "rank_change": "+3"
+    },
+    {
+      "rank": 7,
+      "id": "tt18923754",
+      "title": "Daredevil: Born Again",
+      "year": "2025",
+      "imdb": 8.1,
+      "votes": 93973,
+      "rank_change": "+3"
+    },
+    {
+      "rank": 8,
+      "id": "tt11737520",
+      "title": "One Piece",
+      "year": "2023",
+      "imdb": 8.3,
+      "votes": 203272,
+      "rank_change": "-2"
+    },
+    {
+      "rank": 9,
+      "id": "tt22074164",
+      "title": "Jury Duty Presents: Company Retreat",
+      "year": "2023",
+      "imdb": 8.2,
+      "votes": 54749,
+      "rank_change": "+7"
+    },
+    {
+      "rank": 10,
+      "id": "tt15677150",
+      "title": "Shrinking",
+      "year": "2023",
+      "imdb": 8.1,
+      "votes": 120112,
+      "rank_change": "+8"
+    },
+    {
+      "rank": 11,
+      "id": "tt8772296",
+      "title": "Euphoria",
+      "year": "2019",
+      "imdb": 8.2,
+      "votes": 296194,
+      "rank_change": "+23"
+    },
+    {
+      "rank": 12,
+      "id": "tt0944947",
+      "title": "Game of Thrones",
+      "year": "2011",
+      "imdb": 9.2,
+      "votes": 2603075,
+      "rank_change": "+3"
+    },
+    {
+      "rank": 13,
+      "id": "tt30459041",
+      "title": "Your Friends & Neighbors",
+      "year": "2025",
+      "imdb": 7.7,
+      "votes": 50516,
+      "rank_change": "+79"
+    },
+    {
+      "rank": 14,
+      "id": "tt1190634",
+      "title": "The Boys",
+      "year": "2019",
+      "imdb": 8.6,
+      "votes": 849736,
+      "rank_change": "+11"
+    },
+    {
+      "rank": 15,
+      "id": "tt12343534",
+      "title": "Jujutsu Kaisen",
+      "year": "2020",
+      "imdb": 8.5,
+      "votes": 202224,
+      "rank_change": "-8"
+    },
+    {
+      "rank": 16,
+      "id": "tt0903747",
+      "title": "Breaking Bad",
+      "year": "2008",
+      "imdb": 9.5,
+      "votes": 2598325,
+      "rank_change": "+1"
+    },
+    {
+      "rank": 17,
+      "id": "tt7772588",
+      "title": "For All Mankind",
+      "year": "2019",
+      "imdb": 8.1,
+      "votes": 86180,
+      "rank_change": "-4"
+    },
+    {
+      "rank": 18,
+      "id": "tt14786934",
+      "title": "Scarpetta",
+      "year": "2026",
+      "imdb": 6.0,
+      "votes": 13671,
+      "rank_change": "-6"
+    },
+    {
+      "rank": 19,
+      "id": "tt2442560",
+      "title": "Peaky Blinders",
+      "year": "2013",
+      "imdb": 8.7,
+      "votes": 769930,
+      "rank_change": "-8"
+    },
+    {
+      "rank": 20,
+      "id": "tt32420734",
+      "title": "Rooster",
+      "year": "2026",
+      "imdb": 7.4,
+      "votes": 4702,
+      "rank_change": "-1"
+    }
+  ]
+}
