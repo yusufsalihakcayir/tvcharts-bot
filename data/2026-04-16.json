@@ -1,0 +1,185 @@
+{
+  "date": "2026-04-16",
+  "shows": [
+    {
+      "rank": 1,
+      "id": "tt1190634",
+      "title": "The Boys",
+      "year": "2019",
+      "imdb": 8.6,
+      "votes": 853405,
+      "rank_change": "+13"
+    },
+    {
+      "rank": 2,
+      "id": "tt31938062",
+      "title": "The Pitt",
+      "year": "2025",
+      "imdb": 8.9,
+      "votes": 136404,
+      "rank_change": "-1"
+    },
+    {
+      "rank": 3,
+      "id": "tt35466672",
+      "title": "Malcolm in the Middle: Life's Still Unfair",
+      "year": "2026",
+      "imdb": 7.1,
+      "votes": 9638,
+      "rank_change": "+111"
+    },
+    {
+      "rank": 4,
+      "id": "tt6741278",
+      "title": "Invincible",
+      "year": "2021",
+      "imdb": 8.7,
+      "votes": 322423,
+      "rank_change": "-1"
+    },
+    {
+      "rank": 5,
+      "id": "tt36957934",
+      "title": "Big Mistakes",
+      "year": "2026",
+      "imdb": 7.1,
+      "votes": 3316,
+      "rank_change": "+338"
+    },
+    {
+      "rank": 6,
+      "id": "tt8772296",
+      "title": "Euphoria",
+      "year": "2019",
+      "imdb": 8.2,
+      "votes": 297686,
+      "rank_change": "+5"
+    },
+    {
+      "rank": 7,
+      "id": "tt10970762",
+      "title": "The Testaments",
+      "year": "2026",
+      "imdb": 8.1,
+      "votes": 1598,
+      "rank_change": "+75"
+    },
+    {
+      "rank": 8,
+      "id": "tt32937780",
+      "title": "Something Very Bad Is Going to Happen",
+      "year": "2026",
+      "imdb": 6.8,
+      "votes": 20432,
+      "rank_change": "-6"
+    },
+    {
+      "rank": 9,
+      "id": "tt18923754",
+      "title": "Daredevil: Born Again",
+      "year": "2025",
+      "imdb": 8.1,
+      "votes": 95429,
+      "rank_change": "-2"
+    },
+    {
+      "rank": 10,
+      "id": "tt27444205",
+      "title": "Paradise",
+      "year": "2025",
+      "imdb": 7.9,
+      "votes": 75571,
+      "rank_change": "-4"
+    },
+    {
+      "rank": 11,
+      "id": "tt0212671",
+      "title": "Malcolm in the Middle",
+      "year": "2000",
+      "imdb": 8.2,
+      "votes": 158274,
+      "rank_change": "+70"
+    },
+    {
+      "rank": 12,
+      "id": "tt33204276",
+      "title": "The Madison",
+      "year": "2026",
+      "imdb": 7.9,
+      "votes": 13238,
+      "rank_change": "-7"
+    },
+    {
+      "rank": 13,
+      "id": "tt31810018",
+      "title": "Detective Hole",
+      "year": "2026",
+      "imdb": 7.8,
+      "votes": 15303,
+      "rank_change": "-9"
+    },
+    {
+      "rank": 14,
+      "id": "tt0944947",
+      "title": "Game of Thrones",
+      "year": "2011",
+      "imdb": 9.2,
+      "votes": 2605197,
+      "rank_change": "-2"
+    },
+    {
+      "rank": 15,
+      "id": "tt36594331",
+      "title": "Star Wars: Maul - Shadow Lord",
+      "year": "2026",
+      "imdb": 8.5,
+      "votes": 4373,
+      "rank_change": "+173"
+    },
+    {
+      "rank": 16,
+      "id": "tt27557666",
+      "title": "Lord of the Flies",
+      "year": "2026",
+      "imdb": 6.6,
+      "votes": 3692,
+      "rank_change": "+459"
+    },
+    {
+      "rank": 17,
+      "id": "tt15677150",
+      "title": "Shrinking",
+      "year": "2023",
+      "imdb": 8.1,
+      "votes": 120916,
+      "rank_change": "-7"
+    },
+    {
+      "rank": 18,
+      "id": "tt30459041",
+      "title": "Your Friends & Neighbors",
+      "year": "2025",
+      "imdb": 7.7,
+      "votes": 51312,
+      "rank_change": "-5"
+    },
+    {
+      "rank": 19,
+      "id": "tt22091076",
+      "title": "High Potential",
+      "year": "2024",
+      "imdb": 7.6,
+      "votes": 48674,
+      "rank_change": "+5"
+    },
+    {
+      "rank": 20,
+      "id": "tt31909098",
+      "title": "The Miniature Wife",
+      "year": "2026",
+      "imdb": 6.2,
+      "votes": 970,
+      "rank_change": "+346"
+    }
+  ]
+}
