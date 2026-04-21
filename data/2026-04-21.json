@@ -1,0 +1,185 @@
+{
+  "date": "2026-04-21",
+  "shows": [
+    {
+      "rank": 1,
+      "id": "tt1190634",
+      "title": "The Boys",
+      "year": "2019",
+      "imdb": 8.6,
+      "votes": 856623,
+      "rank_change": "0"
+    },
+    {
+      "rank": 2,
+      "id": "tt31938062",
+      "title": "The Pitt",
+      "year": "2025",
+      "imdb": 8.9,
+      "votes": 140196,
+      "rank_change": "0"
+    },
+    {
+      "rank": 3,
+      "id": "tt14403178",
+      "title": "Beef",
+      "year": "2023",
+      "imdb": 8.0,
+      "votes": 164970,
+      "rank_change": "+64"
+    },
+    {
+      "rank": 4,
+      "id": "tt6741278",
+      "title": "Invincible",
+      "year": "2021",
+      "imdb": 8.7,
+      "votes": 327021,
+      "rank_change": "0"
+    },
+    {
+      "rank": 5,
+      "id": "tt8772296",
+      "title": "Euphoria",
+      "year": "2019",
+      "imdb": 8.2,
+      "votes": 298829,
+      "rank_change": "+1"
+    },
+    {
+      "rank": 6,
+      "id": "tt36957934",
+      "title": "Big Mistakes",
+      "year": "2026",
+      "imdb": 7.2,
+      "votes": 5368,
+      "rank_change": "-1"
+    },
+    {
+      "rank": 7,
+      "id": "tt31137273",
+      "title": "Margo's Got Money Troubles",
+      "year": "2026",
+      "imdb": 7.0,
+      "votes": 1398,
+      "rank_change": "+112"
+    },
+    {
+      "rank": 8,
+      "id": "tt9813792",
+      "title": "From",
+      "year": "2022",
+      "imdb": 7.8,
+      "votes": 174503,
+      "rank_change": "+20"
+    },
+    {
+      "rank": 9,
+      "id": "tt18923754",
+      "title": "Daredevil: Born Again",
+      "year": "2025",
+      "imdb": 8.1,
+      "votes": 96411,
+      "rank_change": "0"
+    },
+    {
+      "rank": 10,
+      "id": "tt35466672",
+      "title": "Malcolm in the Middle: Life's Still Unfair",
+      "year": "2026",
+      "imdb": 7.0,
+      "votes": 12626,
+      "rank_change": "-7"
+    },
+    {
+      "rank": 11,
+      "id": "tt10970762",
+      "title": "The Testaments",
+      "year": "2026",
+      "imdb": 8.1,
+      "votes": 2151,
+      "rank_change": "-4"
+    },
+    {
+      "rank": 12,
+      "id": "tt0944947",
+      "title": "Game of Thrones",
+      "year": "2011",
+      "imdb": 9.2,
+      "votes": 2607009,
+      "rank_change": "+2"
+    },
+    {
+      "rank": 13,
+      "id": "tt32937780",
+      "title": "Something Very Bad Is Going to Happen",
+      "year": "2026",
+      "imdb": 6.8,
+      "votes": 22856,
+      "rank_change": "-5"
+    },
+    {
+      "rank": 14,
+      "id": "tt33204276",
+      "title": "The Madison",
+      "year": "2026",
+      "imdb": 7.9,
+      "votes": 14212,
+      "rank_change": "-2"
+    },
+    {
+      "rank": 15,
+      "id": "tt30459041",
+      "title": "Your Friends & Neighbors",
+      "year": "2025",
+      "imdb": 7.7,
+      "votes": 51942,
+      "rank_change": "+3"
+    },
+    {
+      "rank": 16,
+      "id": "tt7587890",
+      "title": "The Rookie",
+      "year": "2018",
+      "imdb": 8.0,
+      "votes": 125684,
+      "rank_change": "+10"
+    },
+    {
+      "rank": 17,
+      "id": "tt27444205",
+      "title": "Paradise",
+      "year": "2025",
+      "imdb": 7.9,
+      "votes": 76520,
+      "rank_change": "-7"
+    },
+    {
+      "rank": 18,
+      "id": "tt32420734",
+      "title": "Rooster",
+      "year": "2026",
+      "imdb": 7.5,
+      "votes": 6420,
+      "rank_change": "+7"
+    },
+    {
+      "rank": 19,
+      "id": "tt0903747",
+      "title": "Breaking Bad",
+      "year": "2008",
+      "imdb": 9.5,
+      "votes": 2604202,
+      "rank_change": "+3"
+    },
+    {
+      "rank": 20,
+      "id": "tt34385331",
+      "title": "DTF St. Louis",
+      "year": "2026",
+      "imdb": 7.2,
+      "votes": 11182,
+      "rank_change": "+7"
+    }
+  ]
+}
